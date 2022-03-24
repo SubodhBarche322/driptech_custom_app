@@ -103,6 +103,24 @@ app_license = "MIT"
 #	}
 # }
 
+
+doc_events = {
+	# "Employee":{
+	# 	#"validate": "cstm_app.cstm_app.my_file.funct"
+
+
+	# },
+
+
+	"Location":{
+
+		#"validate": "cstm_app.cstm_app.my_file.savee"
+		"validate": "cstm_app.cstm_app.my_file.calculate_distance"
+
+	}
+
+}
+
 # Scheduled Tasks
 # ---------------
 
